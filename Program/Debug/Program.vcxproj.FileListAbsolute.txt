@@ -1,0 +1,4 @@
+B:\Study_AltSY\Second_Year\Practic\Program\Debug\Program.vcxproj.AssemblyReference.cache
+B:\Study_AltSY\Second_Year\Practic\Program\Debug\Program.exe
+B:\Study_AltSY\Second_Year\Practic\Program\Debug\Program.MainForm.resources
+B:\Study_AltSY\Second_Year\Practic\Program\Debug\Program.vcxproj.GenerateResource.cache
